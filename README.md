@@ -1,4 +1,4 @@
-#Moda-vue
+#Modal 
 
 Modal em VueJs, feito para fins de estudo.
 
